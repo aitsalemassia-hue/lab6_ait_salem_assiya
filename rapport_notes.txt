@@ -1,0 +1,14 @@
+=== Rapport des notes ===
+Nombre d'étudiants : 3
+Notes originales : [12.0, 18.0, 4.0]
+Notes après bonus : [13.0, 19.0, 5.0]
+Moyenne initiale : 11.33
+Moyenne après bonus : 12.33
+Notes ≥ 12 : [12.0, 18.0] (soit 2 étudiants)
+ les 3 meilleurs notes :[19.0, 13.0, 5.0]
+Notes < 12 (rattrapage) : [] (soit 0 étudiants)
+Notes < 5 (échec) : [4.0] (soit 1 étudiants)
+Détails par étudiant :
+  Étudiant 01 — note 12.00 → bonus 13.00
+  Étudiant 02 — note 18.00 → bonus 19.00
+  Étudiant 03 — note  4.00 → bonus  5.00
